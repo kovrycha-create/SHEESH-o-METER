@@ -1,0 +1,5 @@
+{
+  "name": "Cyberpunk Sheesh-O-Meter",
+  "description": "An enhanced and improved cyberpunk-themed 'Sheesh-O-Meter' for stream overlays, rebuilt with React and Tailwind CSS for a modern, performant, and visually stunning experience.",
+  "requestFramePermissions": []
+}
